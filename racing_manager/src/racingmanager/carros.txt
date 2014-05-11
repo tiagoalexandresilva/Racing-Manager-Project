@@ -1,0 +1,3 @@
+PC1,marca1,modelo1,2500,200
+PC2,marca2,modelo2,4500,300
+GT,marca3,modelo3,6000,222

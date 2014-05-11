@@ -1,0 +1,4 @@
+lucas,portugues,4,7,0.5
+tiago,alien,3,8,0.0
+samuel,canada,5,7,0.7
+pedro,tuga,2,4,0.9
